@@ -11,9 +11,7 @@ Brittany Haffner, Bryan Fuh, Atharva Jakkanwar, Apar Singhal
 
 ### How to Run?
 ```
-git clone 
-https://github.ccs.neu.edu/brittanyhaffner1/
-CS6140_FinalProject/flappy-agent
+git clone https://github.ccs.neu.edu/brittanyhaffner1/CS6140_FinalProject/flappy-agent
 cd CS6140_FinalProject
 python deep_q_network.py
 ```

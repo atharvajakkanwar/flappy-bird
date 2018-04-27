@@ -17,5 +17,5 @@ cd CS6140_FinalProject
 python deep_q_network.py
 ```
 
-Disclaimer:
+### Disclaimer
 This code is a modified version of the works of Yenchen Lin, which is available at: https://github.com/yenchenlin1994/DeepLearningFlappyBird.git

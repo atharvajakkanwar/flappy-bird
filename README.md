@@ -11,7 +11,11 @@ Brittany Haffner, Bryan Fuh, Atharva Jakkanwar, Apar Singhal
 
 ### How to Run?
 ```
-git clone https://github.com/yenchenlin1994/DeepLearningFlappyBird.git
-cd DeepLearningFlappyBird
+git clone 
+https://github.ccs.neu.edu/brittanyhaffner1/CS6140_FinalProject
+cd CS6140_FinalProject
 python deep_q_network.py
 ```
+
+Disclaimer:
+This code is a modified version of the works of Yenchen Lin, which is available at: https://github.com/yenchenlin1994/DeepLearningFlappyBird.git
